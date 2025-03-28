@@ -24,7 +24,7 @@ const Index = () => {
               bgColor="bg-tech-blue"
               textColor="text-white"
               text="For MRUH Students"
-              link="#" // TODO: Add your actual link here, e.g., "https://forms.gle/hU8b1Sqt1MszFMfJ7"
+              link="https://forms.gle/hU8b1Sqt1MszFMfJ7"
             />
           </div>
         </EventCategory>
