@@ -26,6 +26,12 @@ const Index = () => {
               text="For MRUH Students"
               link="https://forms.gle/hU8b1Sqt1MszFMfJ7"
             />
+            <StudentButton 
+              bgColor="bg-tech-orange"
+              textColor="text-white"
+              text="For Non-MRUH Students"
+              link="https://forms.gle/TkEtrSfgJNLjo7zLA"
+            />
           </div>
         </EventCategory>
         
@@ -39,7 +45,7 @@ const Index = () => {
             <StudentButton 
               bgColor="bg-tech-blue"
               textColor="text-white"
-              text="For MRUH Students"
+              text="For MRUH (DS) Students"
               link="https://forms.gle/gT6jBwDEkCXGo5c6A"
             />
             <StudentButton 
