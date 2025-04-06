@@ -82,6 +82,12 @@ const Index = () => {
               text="Strength Showdown 2k25"
               link="https://forms.gle/iAuWRDWddYCADwyz6"
             />
+            <StudentButton 
+              bgColor="bg-tech-blue"
+              textColor="text-white"
+              text="Stall Zone"
+              link="https://forms.gle/qVvcDKmMf4WWGnJLA"
+            />
           </div>
         </EventCategory>
       </div>
