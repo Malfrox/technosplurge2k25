@@ -59,7 +59,7 @@ const Index = () => {
         
         {/* E-Sports Event Section */}
         <EventCategory 
-          title="E-Sports Event" 
+          title="Exclusive Events For Only DS Students" 
           icon={<Gamepad className="h-6 w-6 text-white" />}
           iconBg="bg-tech-blue"
         >
@@ -67,8 +67,20 @@ const Index = () => {
             <StudentButton 
               bgColor="bg-tech-blue"
               textColor="text-white"
-              text="For MRUH (DS) Students"
+              text="KnøckOut  2k25"
               link="https://forms.gle/a4d4ScmYKa6gZ9ML8"
+            />
+            <StudentButton 
+              bgColor="bg-tech-blue"
+              textColor="text-white"
+              text="FlashFlix 2k25"
+              link="https://forms.gle/yGuDd4wqRXDdkPtKA"
+            />
+            <StudentButton 
+              bgColor="bg-tech-blue"
+              textColor="text-white"
+              text="Strength Showdown 2k25"
+              link="https://forms.gle/iAuWRDWddYCADwyz6"
             />
           </div>
         </EventCategory>
